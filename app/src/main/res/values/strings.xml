@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="go_easy">Go (Simple)</string>
+    <string name="go_results">Go with results</string>
+</resources>
